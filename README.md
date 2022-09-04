@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile Application Development
+Mobile Application Developer
 
 
 ## 🌐 Socials:
