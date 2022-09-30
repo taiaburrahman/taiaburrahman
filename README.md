@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile Application Developer
+Mobile Application Developer (Flutter)
 
 
 ## 🌐 Socials:
